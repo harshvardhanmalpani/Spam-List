@@ -1,6 +1,6 @@
 <?php
 $a=file_get_contents("list.md");
-$b=str_replace("\r\n"," OR ",$a);
+$b=str_replace("\n"," OR ",$a);
 $c=wordwrap($b,1499,"<br>");
 $d=explode("<br>",$c);
 foreach($d as $e)
