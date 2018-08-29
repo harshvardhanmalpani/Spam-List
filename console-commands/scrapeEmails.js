@@ -1,4 +1,5 @@
-mails=$('.BltHke.nH.oy8Mbf[role="main"] .yX.xY .yW span');
+// mails=$('.BltHke.nH.oy8Mbf[role="main"] .yX.xY .yW span');
+mails=$('.BltHke.nH.oy8Mbf[role="main"] .yX.xY .yP'); //new gmail look
 var emmm=[];var isspam=0;
 var allowed=["cpanel","harshmalpani","tutes.club"];
 mails.each(function(){
