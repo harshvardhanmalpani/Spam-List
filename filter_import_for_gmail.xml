@@ -66,7 +66,7 @@
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/> </entry><entry><category term='filter'></category>
 <title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:1556251684492</id><updated>2019-04-26T09:38:04Z</updated><content></content><apps:property name='from' value='ygwg4n8fyfs1y8yb1ulf.ygwg4n8fyfs1y8yb1ulf@maodlpa.publicvm.com OR ysamepcv@93qk6erzouwrmrh.us OR yyy@pastel.ocn.ne.jp OR zainababdul233@gmail.com'/><apps:property name='shouldTrash' value='true'/>
+		<id>tag:mail.google.com,2008:filter:1556251684492</id><updated>2019-04-26T09:38:04Z</updated><content></content><apps:property name='from' value='ygwg4n8fyfs1y8yb1ulf.ygwg4n8fyfs1y8yb1ulf@maodlpa.publicvm.com OR ysamepcv@93qk6erzouwrmrh.us OR yyy@pastel.ocn.ne.jp OR zainababdul233@gmail.com OR info@crm.casaconsultant.com'/><apps:property name='shouldTrash' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/> </entry></feed>
