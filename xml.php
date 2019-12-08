@@ -9,7 +9,7 @@ $head="<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005
 	tag:mail.google.com,2008:filters:";
 $author="<author>
 		<name>Harshvardhan Malpani</name>
-		<email>harsh.malpani25@gmail.com</email>
+		<email>i@harshmalpani.in</email>
 	</author>";
 $propertysettings="<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
