@@ -13,7 +13,10 @@ List of spamming domains and email addresses. Comes with ready to be imported fi
 					* Tick __Apply new filters to existing email.__ 
 						* Create Filters
 
-`filters.txt` contains text which can be used to create filters in gmail. 
+`filters.txt` contains text which can be used to create filters in gmail.
+ 
+####Download the main xml file here https://raw.githubusercontent.com/harshvardhanmalpani/Spam-List/master/filter_import_for_gmail.xml
+
 Details at https://tutes.club/how-to-stop-spam-in-gmail-account-a-guide-to-creating-filters-in-google-mail/
 
 `list.md` is the main spam list
