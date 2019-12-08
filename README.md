@@ -18,7 +18,9 @@ Details at https://tutes.club/how-to-stop-spam-in-gmail-account-a-guide-to-creat
 
 `list.md` is the main spam list
 
-`run.php` generates the file `filters.txt` to be used in gmail directly
+
+
+`run.php` generates the file `filters.txt` to be used in gmail directly -- _*not really needed anymore -- use `xml.php`*_
 
 `xml.php` generates the import file for gmail
 
