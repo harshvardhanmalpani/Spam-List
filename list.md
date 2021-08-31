@@ -165,6 +165,7 @@ gezelaine.souza@etec.sp.gov.br
 gloriareynolds1972@gmail.com
 gordonhayeesgf@gmail.com
 greene_james@aol.com
+greetings@autoepost.com
 groupworld45@live.com
 guttered@hotborutautumn.top
 haggermakerbrookede@gmail.com
@@ -413,6 +414,7 @@ newsletter@banditonetworks.com
 newsletter@bankmarket.in
 newsletter@bow-wow.in
 newsletter@boxme9.com
+newsletter@cafago.com
 newsletter@e.landmarkshop.in
 newsletter@freedealcode.in
 newsletter@freekacharge.com
@@ -427,6 +429,7 @@ newsletter@offeronmail.com
 newsletter@reldigit.co.in
 newsletter@savingsector.com
 newsletter@tsi.ai
+newsletter@unqiueindia.com
 newsletter@update.esteemnewsemail.com
 newsletters@3.leo.bigritz.com
 newsletters@backendmails.com
@@ -453,6 +456,7 @@ noreply@buddyauth.com
 noreply@emails.mailersforyou.com
 noreply@groupiop.com
 noreply@imperialpharms.co.uk
+noreply@jobshunk.in
 noreply@kwikinbox.com
 noreply@seedr.cc
 noreply@thalizma.com
@@ -460,6 +464,7 @@ noreply@ttstoreusa.com
 noreply@valunewser.com
 notes@salekode.com
 notification@cashmeback.in
+notifications@blmail.buddyloan.in
 notifications@impactradius-platform.com
 notifications@livehealthacademy.com
 notifications@zorpia.com
